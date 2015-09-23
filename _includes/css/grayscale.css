@@ -19,15 +19,39 @@ html {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3
+{
+    text-align: center;
     margin: 0 0 35px;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+}
+
+
+h4,
+h5,
+h6 {
+    margin: 0 0 5px;
+    text-align: left;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+hr {
+  border:none;
+  background-color: {{ site.color.primary-dark }};
+  border-top:1px dotted #fff;
+  color:#fff;
+  height:25px;
+  width:50%;
+}
+
+br {
+    margin: 0 0 10px;
+    display:block;
 }
 
 p {
@@ -58,7 +82,7 @@ a:focus {
 }
 
 .light {
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .navbar-custom {
@@ -250,7 +274,17 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+    text-align: left;
 }
+
+
+.cv-style p{
+    margin: 0 0px;
+    line-height: 1.1;
+    font-size: 18px;
+    text-align: left;
+}
+
 
 .download-section {
     width: 100%;

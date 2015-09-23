@@ -1,0 +1,43 @@
+<!-- CV Section -->
+    <section id="cv" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Download CV</h2>
+
+                <h2>Education</h2>
+<b>Case Western Reserve University, School of Engineering, Cleveland OH</b>
+   <p>Doctor of Philosophy (Ph.D) in Chemical Engineering</p>
+   <p>Specializiation in microplasma creation in open air.</p>
+
+<b>Indian Institute of Technology, Kharagpur, India</b>
+   <p>Master of Technology (M.Tech) in Materials Science and Technology</p>
+   <p>Research on synthesis of one and two dimensional carbon nanomaterials</p>
+   <p>Thesis Entitled: <i>Growth of Carbon Nanostructures by Chemical Vapor Deposition</i></p>
+
+<b>Bose Institute and St. Xavier's College, Kolkata, India</b>
+   <p>Master of Science (M.S.) in Physics</p>
+   <p>Research on magnetohydrodynamics of the solar corona.</p>
+   <p>Thesis Entitled: <i>Analysis of Magneto-Atmospheric Waves in a Linear Plasma</i></p>
+
+
+<b>St. Xavier's College, Kolkata, India</b>
+   <p>Bachelor of Science (B.S.) in Physics with Honors</p>
+
+
+                <h2>Experience</h2>
+<b>Graduate Research Assistant</b>
+<i>Sankaran Lab, Department of Chemical and Biomolecular Engineering,Case Western School of Engineering, Cleveland OH</i>
+<p>Position involves research on large scale nanofabrication of metallic electrodes on various substrates using an atmospheric pressure microplasma as a tool.</p>
+
+<i>Collaboration with EP Technologies LLC and Sankaran Lab, Department of Chemical and Biomolecular Engineering, Case Western School of Engineering, Cleveland OH</i>
+<p>Research involves exploring the possibilities of using microplasma reduced metallic nanoparticles for antimicrobial studies.</p>
+
+
+
+                <h2>Skills</h2>
+
+                <h2>Awards</h2>
+
+            </div>
+        </div>
+    </section>

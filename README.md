@@ -1,13 +1,11 @@
-Grayscale Jekyll theme
+Academic Website of Souvik 'SG' Ghosh
 =========================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
+## PhD Candidate in Chemical Engineering
+Website contains information about my research, project, images.
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+## Departmental Website
+[HERE](microplasma.case.edu)
 
 =========
-For more details, read the [documentation](http://jekyllrb.com/)
+Uses a Heavily Customized Theme of [Grayscale](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
