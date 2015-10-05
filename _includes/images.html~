@@ -1,0 +1,29 @@
+    <!-- Images Section -->
+    <section id="images" class="container content-section text-center">
+        <div class="row">
+    <div class="col-lg-8 col-md-offset-2">
+       <h2>IMAGES</h2>
+<center><p>I enjoy expressing our work to the scientific community through graphic visualization. You probably have already seen some of those work in my research section, showing some experimental apparatus. Below are some other examples of my work and where they were featured.</p></center>
+</div>
+          <div class="col-lg-10 col-md-offset-1">
+           <img src="img/diamond_sg.png" class="textwrap_right" alt="ajay_diamond"></img> 
+<br></br>
+       <p><a target='_blank' href="http://www.nature.com/ncomms/2013/131021/ncomms3618/full/ncomms3618.html#figures" class="btn btn-default btn-lg"> <i class="fa fa-file-text fa-fw"></i>  LINK</a></p>
+<p>This was created for <b>Nature Communications</b> about the formation of nanodiamonds at near-ambient conditions.  The research was lead by a Post-Doc of the Sankaran Lab, Dr. Ajay Kumar.</p>
+	  </div>
+<div class="col-lg-10 col-md-offset-1">
+           <img src="img/HR.png" class="textwrap_right" alt="journal_cover"></img> 
+<br></br>
+       <p><a target='_blank' href="http://iopscience.iop.org/article/10.1088/0022-3727/48/31/314003" class="btn btn-default btn-lg"> <i class="fa fa-file-text fa-fw"></i>  LINK</a></p>
+<p><b>Featured Article & Journal Cover</b> for the Journal of Physics D: Applied Physics, Special Issue: Plasma synthesis of nanoparticles and nanocrystals, published in 2015.</p>
+</div>
+
+<div class="col-lg-10 col-md-offset-1">
+           <img src="img/plasma_redu_lrg.png" class="textwrap_right" alt="main_work"></img> 
+<br></br>
+       <p><a target='_blank' href="http://pubs.acs.org/doi/abs/10.1021/am406005a" class="btn btn-default btn-lg"> <i class="fa fa-file-text fa-fw"></i>  LINK</a></p>
+<p>One of the first images I created for publication. This image was also highlighted in our university magazine showcasing the Scalable Nano-Manufacturing project from which I am currently funded.</p>
+</div>
+
+        </div>
+    </section>
