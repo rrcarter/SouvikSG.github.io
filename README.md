@@ -5,7 +5,7 @@ Academic Website of Souvik 'SG' Ghosh
 Website contains information about my research, project, images.
 
 ## Departmental Website
-[HERE](microplasma.case.edu)
+[HERE](http://microplasma.case.edu)
 
 =========
 Uses a Heavily Customized Theme of [Grayscale](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
